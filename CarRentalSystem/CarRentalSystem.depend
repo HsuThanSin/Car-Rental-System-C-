@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1739023208 source:d:\programming_related\c\cppworkingfolder\carrentalsystem\src\carclass.cpp
+	"CarClass.h"
+
+1739679788 d:\programming_related\c\cppworkingfolder\carrentalsystem\carclass.h
+	<iostream>
+	<string>
+
+1739026515 source:d:\programming_related\c\cppworkingfolder\carrentalsystem\src\customer.cpp
+	"Customer.h"
+
+1739679871 d:\programming_related\c\cppworkingfolder\carrentalsystem\customer.h
+	<iostream>
+	<string>
+
+1739679984 source:d:\programming_related\c\cppworkingfolder\carrentalsystem\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<fstream>
+	<vector>
+	<sstream>
+	"CarClass.h"
+	"Customer.h"
+	"RentCar.h"
+
+1739614829 source:d:\programming_related\c\cppworkingfolder\carrentalsystem\src\rentcar.cpp
+	"RentCar.h"
+
+1739673403 d:\programming_related\c\cppworkingfolder\carrentalsystem\rentcar.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1739681991 source:d:\carrentalsystem\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<fstream>
+	<vector>
+	<sstream>
+	"CarClass.h"
+	"Customer.h"
+	"RentCar.h"
+
+1739679788 d:\carrentalsystem\carclass.h
+	<iostream>
+	<string>
+
+1739679871 d:\carrentalsystem\customer.h
+	<iostream>
+	<string>
+
+1739673403 d:\carrentalsystem\rentcar.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1739023208 source:d:\carrentalsystem\src\carclass.cpp
+	"CarClass.h"
+
+1739026515 source:d:\carrentalsystem\src\customer.cpp
+	"Customer.h"
+
+1739614829 source:d:\carrentalsystem\src\rentcar.cpp
+	"RentCar.h"
+
